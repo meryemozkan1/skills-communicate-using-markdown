@@ -11,4 +11,4 @@
 ## Review
 
 ```javascript
-let myVariable = 'Hello, world!';
+var myVariable = 'Hello, world!';
