@@ -2,11 +2,11 @@
 
 ## Morning Planning
 
-![Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Yaktocat">
 
-- [ ] Read the documentation
-- [ ] Practice writing Markdown
-- [ ] Review yesterday's notes
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ## Review
 
