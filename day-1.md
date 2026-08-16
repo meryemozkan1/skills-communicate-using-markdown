@@ -2,13 +2,14 @@
 
 ## Morning Planning
 
-!(https://octodex.github.com/images/yaktocat.png)
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [ ] Read the documentation
+- [ ] Practice writing Markdown
+- [ ] Review yesterday's notes
 
 ## Review
 
 ```javascript
-var myVariable = 'Hello, world!';
+var myVariable = 10;
+```
